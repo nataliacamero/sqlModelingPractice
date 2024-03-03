@@ -18,6 +18,8 @@ En este repo se encuentra la solucion al enunciado de la practica que se evalua 
 
 ## Resultado de la consulta:
 
+<img src="https://raw.githubusercontent.com/nataliacamero/sqlModelingPractice/main/Reporte_del_vehiculos_activos.png" alt="img-reporte-vehiculos" width="1000"/>
+
 
 
 
